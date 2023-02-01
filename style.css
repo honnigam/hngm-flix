@@ -10,9 +10,7 @@ body {
  }
  
  .container {
-   display: flex;
-   align-items: center;
-   justify-content: center;
+   text-align: center;
    padding: 20px;
  }
  
@@ -27,9 +25,6 @@ body {
  }
  
  .page-logo {
-   display: flex;
-   align-items: center;
-   justify-content: center;
    width: 200px;
  }
  
