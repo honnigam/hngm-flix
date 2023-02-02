@@ -3,7 +3,7 @@ body {
    font-family: "Roboto Mono", monospace;
    text-align: center;
    background-image: url(./assets/bg-icon.svg);
-   background-color: #000000;
+   background-color: #ffffff;
    background-size: cover;
    background-position: center top;
    background-repeat: no-repeat;
@@ -42,4 +42,4 @@ body {
  img {
    max-height: 250px;
  }
- 
+
